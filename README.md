@@ -56,11 +56,8 @@ npm install
 npm run dev
 ```
 
-# Open in your browser
 
-open http://localhost:3000
-
-✨ Live Demo
+# ✨ Live Demo
 🌍 [Pic-To-Ascii](https://pic-to-ascii.vercel.app/)
 
 📢 Contributing
