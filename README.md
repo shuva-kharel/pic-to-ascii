@@ -57,8 +57,7 @@ npm run dev
 ```
 
 
-### ✨ Live Demo
-- [Pic-To-Ascii](https://pic-to-ascii.vercel.app/)
+### ✨ [Live Demo](https://pic-to-ascii.vercel.app/)
 
 ---
 📢 Contributing
