@@ -44,22 +44,23 @@ Inspired by retro vibes and command-line art — we made something fun, quirky, 
 
 ## 🛠️ Installation & Running Locally
 
-# Clone the repo
+### Clone the repo
 ```bash
 git clone https://github.com/shuva-kharel/pic-to-ascii
 cd pic-to-ascii
 ```
 
-# Run the project
+### Run the project
 ```bash
 npm install
 npm run dev
 ```
 
 
-# ✨ Live Demo
-🌍 [Pic-To-Ascii](https://pic-to-ascii.vercel.app/)
+### ✨ Live Demo
+- [Pic-To-Ascii](https://pic-to-ascii.vercel.app/)
 
+---
 📢 Contributing
 This is a fun solo project made for a summer challenge, but PRs and forks are welcome!
 Feel free to suggest improvements, add new features (like inverted mode, download button, color ASCII, etc.).
